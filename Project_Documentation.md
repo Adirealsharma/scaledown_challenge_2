@@ -1,7 +1,7 @@
 
 ---
 
-# ✅ 3. PROJECT DOCUMENTATION (Copy–Paste)
+# ✅ 3. PROJECT DOCUMENTATION
 
 ```md
 # AURELIUS — Project Documentation
